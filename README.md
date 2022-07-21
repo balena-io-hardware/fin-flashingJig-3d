@@ -1,3 +1,3 @@
-# Hardware Process enabled Repo
+# Fin flashing jig
 
-You can find documentation for using the hardware process with repos - starting from the creation of repos on our [landr website](https://landr-balena-io-hardware-repo-hardware-process.netlify.app/)
+A stackable 3d printed jig for the Fin to simplify and accelerate the tedious process of connecting Fins for flashing. 
