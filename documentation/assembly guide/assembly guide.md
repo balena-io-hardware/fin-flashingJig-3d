@@ -10,11 +10,11 @@ Fin Flashing Jig
 
 | Tools | Image |
 |-|-|
-| Hot glue gun | <img src="./photos/.jpg" width="250"> |
+| Hot glue gun | <img src="./photos/hotGlueGun.jpg" width="250"> |
 
 | Parts | Qty | Image |
 |-|-|-|
-| [Flashing jig](../output/STL/flashingJig.stl) | 1 | <img src="../output/JPG/flashingJig.jpg" width="250"> |
+| [Flashing jig](../output/STL/flashingJig.stl) | 1 | <img src="../../output/JPG/flashingJig.jpg" width="250"> |
 | balenaFin | 1 | <img src="./photos/balenaFin.png" width="250"> |
 | micro USB cable | 1 | <img src="./photos/microUSB.jpg" width="250"> |
 | balenaFin DC 2.1/5.5 power supply | 1 | <img src="./photos/FinPSU.jpg" width="250"> |
@@ -51,7 +51,7 @@ Fin Flashing Jig
 
 | Parts | Qty | Image |
 |-|-|-|
-| Single flashing jigs | - | <img src="../output/JPG/flashingJig.jpg" width="250"> |
+| Single flashing jigs | - | <img src="../../output/JPG/flashingJig.jpg" width="250"> |
 | 3x10mm pan head self threading screws | 2 per jig | <img src="./photos/screw.jpg" width="250"> |
 
 1. Prepare the desired amount of jigs following the previews [step](#Single-flashing rig)
