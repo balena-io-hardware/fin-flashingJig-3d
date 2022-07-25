@@ -14,7 +14,7 @@ Fin Flashing Jig
 
 | Parts | Qty | Image |
 |-|-|-|
-| [Flashing jig](../output/STL/flashingJig.stl) | 1 | <img src="../../output/JPG/flashingJig.jpg" width="250"> |
+| [Flashing jig](../../output/STL/flashingJig.stl) | 1 | <img src="../../output/JPG/flashingJig.jpg" width="250"> |
 | balenaFin | 1 | <img src="./photos/balenaFin.png" width="250"> |
 | micro USB cable | 1 | <img src="./photos/microUSB.jpg" width="250"> |
 | balenaFin DC 2.1/5.5 power supply | 1 | <img src="./photos/FinPSU.jpg" width="250"> |
