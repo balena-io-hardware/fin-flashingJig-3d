@@ -3,7 +3,7 @@
 A stackable 3d printed jig for the Fin to simplify and accelerate the tedious process of connecting Fins for flashing.
 
 <p align="center">
-  <img src="../../output/JPG/flashingJig.jpg" width="600">
+  <img src="./output/JPG/flashingJig.jpg" width="600">
 </p>
 
 
