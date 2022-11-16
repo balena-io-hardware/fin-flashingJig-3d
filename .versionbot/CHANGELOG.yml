@@ -1,0 +1,130 @@
+- commits:
+    - subject: Switch from balenaCI to flowzone
+      hash: 693fa3661e6f1e2b8e8792cde2a56b3d4c4d0aa1
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Heath Raftery (@hraftery) <heath.raftery@balena.io>
+        signed-off-by: Heath Raftery (@hraftery) <heath.raftery@balena.io>
+      author: Heath Raftery
+      nested: []
+  version: 1.0.2
+  title: ""
+  date: 2022-11-16T14:54:22.905Z
+- version: 1.0.1
+  date: 2022-07-25T19:25:32Z
+  commits:
+    - hash: 6c79563d0e90c9d93ebbd8c8a0541f540b98cb78
+      author: konmouz
+      footers:
+        change-type: patch
+      subject: updated readme
+      body: null
+    - hash: 1829ae74ba4b530ab3ff977f24f4472babcce368
+      author: konmouz
+      subject: fixed link
+      body: null
+- version: 1.0.0
+- date: 2022-07-21T08:17:24Z
+- commits:
+    - hash: 376f9042713b2b3bd72f02ef0b2e68e5a29a7dbf
+- commits:
+    - author: konmouz
+- commits:
+    - subject: added files
+- commits:
+    - body: null
+- commits:
+    - hash: cd40305d7c53e5eb3a204ed0fd1d1dc8d71b2126
+- commits:
+    - author: konmouz
+- commits:
+    - footers:
+        change-type: major
+- commits:
+    - subject: updated source link
+- commits:
+    - body: null
+- commits:
+    - hash: 56ac315548d93ccd7c00414bce3a96dc13f9af92
+- commits:
+    - author: konmouz
+- commits:
+    - subject: Updated the LED mirror
+- commits:
+    - body: null
+- commits:
+    - hash: ca7b064d64337b7fbd3ea3be064398a02789a2e2
+- commits:
+    - author: konmouz
+- commits:
+    - subject: glue hole & corner relief
+- commits:
+    - body: |-
+        - added glue hole for the mSD opening
+        - added relief for PCB holder's corners
+- commits:
+    - hash: ed5c8b5d3607373b40c23f54bc6ec8eeb8a68428
+- commits:
+    - author: Anuj Deshpande
+- commits:
+    - subject: Dummy commit to retrigger tests
+- commits:
+    - body: null
+- commits:
+    - hash: 48aee43ccd9949db68ebc3be1f44c39b09f2410b
+- commits:
+    - author: konmouz
+- commits:
+    - subject: added assembly guide
+- commits:
+    - body: null
+- commits:
+    - hash: 005dad7a4c9bc3fc4b8195abb5fee8affae45d42
+- commits:
+    - author: konmouz
+- commits:
+    - subject: added photos
+- commits:
+    - body: null
+- commits:
+    - hash: 6b6a9e85a72a12be5a2dcf47897544e7723d5332
+- commits:
+    - author: konmouz
+- commits:
+    - subject: added more photos
+- commits:
+    - body: null
+- commits:
+    - hash: 3aa406db1fa8d2da837c33ca741da5a27e0db7fd
+- commits:
+    - author: konmouz
+- commits:
+    - subject: added more photos
+- commits:
+    - body: null
+- commits:
+    - hash: 96ca858f9597ccfa9c71e453dc949bcce191f83a
+- commits:
+    - author: konmouz
+- commits:
+    - subject: added Fin photo
+- commits:
+    - body: null
+- commits:
+    - hash: 22e92bbf24aaea07c70fc7b9b4d908d42bbd4fe7
+- commits:
+    - author: konmouz
+- commits:
+    - subject: added images to the guide
+- commits:
+    - body: null
+- commits:
+    - hash: 9730be648a7dcecc6380afd985b64fcba25dadd1
+- commits:
+    - author: konmouz
+- commits:
+    - subject: added image
+- commits:
+    - body: null
